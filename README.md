@@ -2,6 +2,8 @@
 
 ## React Week 1 Project
 
+![Hog wild Screenshot](./public/images/Hogwildscreenshot.png)
+
 ## Deliverables
 
 - _When the app first loads_, display a tile for each hog in the
